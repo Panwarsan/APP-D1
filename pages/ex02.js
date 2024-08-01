@@ -1,0 +1,6 @@
+var obj1 = {id: 1, name: 'Name', age: 25  }
+console.log(obj1)
+console.log(obj1.age)
+console.log(obj1.name)
+console.log(Object.keys(obji))
+console.log(Object.values(obji))
